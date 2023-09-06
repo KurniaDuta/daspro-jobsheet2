@@ -1,3 +1,8 @@
 # Dasar Pemrograman - Jobsheet 2
 
-09 Hello Github, ini adalah repository saya lho
+Hello Github, ini adalah repository saya lho
+Nama: Duta Kurnia Ardhani
+Kelas: 1C
+Absen: 09
+Jurusan: Teknologi Informasi
+Prodi: Teknik Informatika
